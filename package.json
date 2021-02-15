@@ -49,7 +49,7 @@
   "types": "types/index.d.ts",
   "dependencies": {
     "nan": "^2.14.0",
-    "@mapbox/node-pre-gyp": "1.0.0",
+    "node-pre-gyp": "https://github.com/GeoICON/node-pre-gyp.git#https-proxy-agent-fix3",
     "simple-get": "^3.0.3"
   },
   "devDependencies": {
